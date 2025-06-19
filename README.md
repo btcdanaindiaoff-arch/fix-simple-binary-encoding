@@ -45,7 +45,7 @@ The standard met these criteria for promotion:
 
 * At least two interoperable implementations. This was demonstrated with the conformance test suite described below.
 
-SBE standards are available here in GitHub and on the [FIX Trading Community](http://www.fixtradingcommunity.org/pg/structure/tech-specs/simple-binary-encoding) site.
+SBE standards are available here in GitHub and on the [FIX Trading Community](https://www.fixtrading.org/standards/sbe/) site.
 
 SBE version 1.0 specification with errata was posted July 27, 2018.
 
